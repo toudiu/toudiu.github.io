@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://toudiu.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-11T14:15:57.338Z</updated>
+    <updated>2020-05-11T14:30:59.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://toudiu.github.io"/>
     <link rel="self" href="https://toudiu.github.io/atom.xml"/>
@@ -11,12 +11,27 @@
     <icon>https://toudiu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[测试toudiu.com]]></title>
+        <title type="html"><![CDATA[关于投丢toudiu.com的故事]]></title>
         <id>https://toudiu.github.io/post/ce-shi-toudiucom/</id>
         <link href="https://toudiu.github.io/post/ce-shi-toudiucom/">
         </link>
         <updated>2020-05-11T14:08:55.000Z</updated>
-        <content type="html"><![CDATA[<p>toudiu.com即将上线一个关于我十年来投资失败导致140万损失的故事</p>
+        <content type="html"><![CDATA[<p>toudiu.com即将上线<br>
+本博客将记录一个投资失败者近10年来的心路历程<br>
+博主2007年大年大学开始投资基金，曾拿着2000元生活费投资工银瑞信基金，持仓两年暴跌三成。<br>
+2009年正式开户投资股票<br>
+2010年开始交易工行纸白银等现货白银投资，<br>
+2011年开始外汇投资，在MT4上交易现货黄金外汇等交易品种<br>
+2011年开始上海黄金交易所现货白银T+D交易<br>
+2012年开始域名投资，投资双拼以及四声母COM域名<br>
+2012年首次接触比特币中国，买入莱特币。<br>
+2013年开始美股交易，港股交易，主要在盈投证券交易。<br>
+2014年开户股票融资融券账户，授信额度20万<br>
+2015年遭遇A股股灾<br>
+2015年遭遇域名暴跌行情，四声COM价格成本从2万暴跌至今2000元左右<br>
+2020年疫情遭遇美股股灾<br>
+2020年3月遭遇数字货币比特币以太坊腰斩<br>
+最终失败导致140万损失的故事</p>
 ]]></content>
     </entry>
     <entry>
